@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m a former athlete turned coach who is looking to leave the gym and get a real job."
+  },
+  {
+    "objectID": "guides.html",
+    "href": "guides.html",
+    "title": "Ilona Silverwood",
+    "section": "",
+    "text": "I will eventually write instructions on how to set up a Quarto website, but right now the process involves a lot of trial and error. I also have occassional moments of overconfidence where I think I know what I’m doing without referring to the documentation, which results in subsequently spending lots of time reading documentation to figure out what I did wrong."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ilona Silverwood",
+    "section": "",
+    "text": "To learn more about Quarto websites from people who actually know what they’re doing, visit https://quarto.org/docs/websites."
+  }
+]
