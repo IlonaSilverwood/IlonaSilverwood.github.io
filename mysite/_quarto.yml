@@ -11,6 +11,9 @@ website:
       - about.qmd
       - guides.qmd
       - index.qmd
+  search: 
+    location: navbar
+    type: textbox
 
 format:
   html:
