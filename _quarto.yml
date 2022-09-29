@@ -8,7 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - guides.qmd
+      - href: guides.qmd
+        text: Guides
       - index.qmd
   search: 
     location: navbar
