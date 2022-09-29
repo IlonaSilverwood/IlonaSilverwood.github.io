@@ -1,7 +1,7 @@
 ---
-title: "mysite"
+title: "Ilona Silverwood"
 ---
 
-This is a Quarto website.
+This will eventually be a Quarto website. It is currently an experimental learning experience.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about Quarto websites from people who actually know what they're doing, visit <https://quarto.org/docs/websites>.
