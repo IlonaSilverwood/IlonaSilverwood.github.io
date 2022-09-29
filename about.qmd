@@ -1,5 +1,5 @@
 ---
-title: "About Test"
+title: "About Me"
 ---
 
 I'm a former athlete turned coach who is looking to leave the gym and get a real job.
