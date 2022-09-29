@@ -1,3 +1,7 @@
+---
+title: Guides
+---
+
 This space will be used for posting guides on Github and Quarto.
 
 I will eventually write instructions on how to set up a Quarto website, but right now the process involves a lot of trial and error. I also have occassional moments of overconfidence where I think I know what I'm doing without referring to the documentation, which results in subsequently spending lots of time reading documentation to figure out what I did wrong.
