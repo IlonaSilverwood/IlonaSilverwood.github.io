@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Ilona Silverwood"
@@ -10,7 +9,7 @@ website:
         text: Home
       - about.qmd
       - guides.qmd
-      - index.qmd
+
   search: 
     location: navbar
     type: textbox
