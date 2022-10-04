@@ -6,10 +6,10 @@ This GitHub page will track my learning journey with technical writing and basic
 
 # Education
 
-BA, Political Science
+BA, Political Science  
 University of British Columbia
 
 # Languages
 
-Fluent: English, Hungarian
+Fluent: English, Hungarian  
 Conversational: Spanish
