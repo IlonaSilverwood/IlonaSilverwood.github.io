@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Ilona Silverwood: Technical Writing Profile and Portfolio"
+  title: "Technical Writing Profile and Portfolio"
   navbar:
     left:
       - href: index.qmd
