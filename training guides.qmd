@@ -35,7 +35,7 @@ If this feels foreign, practice with other limbs first.
 
 # Hip hinge
 
-A hip hinge is a cycle of [hip flexion](hipflexion.qmd) and [hip extension], usually performed while standing. 
+A hip hinge is a cycle of [hip flexion](hipflexion.qmd) and [hip extension](hipextension.qmd), usually performed while standing. 
 
 
 ## Why hip hinging is important
