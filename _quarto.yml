@@ -3,6 +3,8 @@ project:
 
 website:
   navbar:
+    background: green
+    foreground: black
     left:
       - about.qmd
       - href: index.qmd
