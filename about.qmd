@@ -4,6 +4,8 @@ Hello, thanks for stopping by! I'm Ilona, a strength and conditioning coach with
 
 This Quarto website will track my learning journey with technical writing and basic programming. I'm currently working on using GitHub effectively and building this site using Quarto, as well as doing a Programming for Writers course on Udemy to learn basic concepts and terminology. In the long term, this website and the associated GitHub account will  host a portfolio containing examples of whitepapers, API documentation, and procedural documents (among others). 
 
+To help with the learning process, I'm also going to be writing about topics I'm very familiar with in order to be able to focus on learning my way around GitHub and Quarto. The [Strength Training Guides](training%20guides.qmd) section is an opportunity for me to use coaching content to explore how to upload and link content.
+
 # Education
 
 BA, Political Science  
