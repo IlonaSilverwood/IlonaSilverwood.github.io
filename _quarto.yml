@@ -9,6 +9,8 @@ website:
         text: Technical Writing Portfolio
       - about.qmd
       - guides.qmd
+      - href: "training guides.qmd"
+        text: Strength Training Guides
 
   search: 
     location: navbar
