@@ -1,7 +1,11 @@
 ---
-title: "Ilona Silverwood"
+title: "Technical Writing Portfolio"
 ---
 
-This will eventually be a Quarto website. It is currently an experimental learning experience.
+This is a placeholder page. Eventually it will contain technical writing samples, including:
 
-To learn more about Quarto websites from people who actually know what they're doing, visit <https://quarto.org/docs/websites>.
+* API documentation
+* procedural documents
+* roadmaps
+* concept documents
+* white papers
