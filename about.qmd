@@ -2,4 +2,18 @@
 title: "About Me"
 ---
 
-I'm a former athlete turned coach who is looking to leave the gym and get a real job.
+# About Me
+
+Hello, thanks for stopping by! I'm Ilona, a strength and conditioning coach with an old political science degree and a new interest in technical writing and software development. On the surface, coaching athletes seemed very different from technical writing, but I've been truly surprised by the similarities I've found so far.
+
+This Quarto website will track my learning journey with technical writing and basic programming. I'm currently working on using GitHub effectively and building this site using Quarto, as well as doing a Programming for Writers course on Udemy to learn basic concepts and terminology. In the long term, this website and the associated GitHub account will  host a portfolio containing examples of whitepapers, API documentation, and procedural documents (among others). 
+
+# Education
+
+BA, Political Science  
+University of British Columbia
+
+# Languages
+
+Fluent: English, Hungarian  
+Conversational: Spanish
