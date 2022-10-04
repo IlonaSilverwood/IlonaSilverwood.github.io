@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ilona Silverwood"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - text: About Me
+      - guides.qmd
+      - index.qmd
+  search: 
+    location: navbar
+    type: textbox
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
