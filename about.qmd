@@ -2,7 +2,7 @@
 title: Ilona Silverwood
 about:
     template: jolla
-    image: rollo.jpg
+    image: Rollo.jpg
 ---
 
 Hello, thanks for stopping by! I'm Ilona, a strength and conditioning coach with an old political science degree and a new interest in technical writing and software development. On the surface, coaching athletes seemed very different from technical writing, but I've been truly surprised by the similarities I've found so far.
