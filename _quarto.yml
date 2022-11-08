@@ -2,21 +2,45 @@ project:
   type: website
 
 website:
+  reader-mode: true
+  page-footer:
+    background: purple
+    left: "Ilona Silverwood, 2022"
+    center:
+      - icon: github
+      - text: repository
+      - url: https://github.com/IlonaSilverwood/IlonaSilverwood.github.io
+  page-navigation: true
   navbar:
-    background: green
+    background: purple
     foreground: white
     left:
       - about.qmd
       - href: index.qmd
         text: Technical Writing Portfolio
+    right:
       - guides.qmd
       - href: "training guides.qmd"
-        text: Strength Training Guides
-
+        text: Strength Training Guides 
   search: 
     location: navbar
     type: textbox
-
+  sidebar:
+    tools:
+      - icon: github
+        menu:
+          - text: Repository
+          - url: https://github.com/IlonaSilverwood/IlonaSilverwood.github.io
+    style: "docked"
+    search: true
+    title: Sidebar
+    contents:
+      - href: index.qmd
+        text: Technical Writing Portfolio
+      - href: "training guides.qmd"
+        text: Strength Training Guides
+    alignment: center
+    border: true
 format:
   html:
     theme: cosmo
