@@ -8,8 +8,8 @@ website:
     left: "Ilona Silverwood, 2022"
     center:
       - icon: github
-      - text: repository
-      - url: https://github.com/IlonaSilverwood/IlonaSilverwood.github.io
+        text: repository
+        url: https://github.com/IlonaSilverwood/IlonaSilverwood.github.io
   page-navigation: true
   navbar:
     background: purple
